@@ -1,0 +1,6 @@
+{
+  "name": "Ingliz Tili 0 dan Boshlab - Level Master",
+  "description": "Ingliz tilini noldan boshlab bosqichma-bosqich o'rganish platformasi: interaktiv darajalar, audio talaffuz, testlar va progress tahlili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
